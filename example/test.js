@@ -1,4 +1,3 @@
-```js
 const deploy = require('aliyun-oss-static-deploy')
 
 deploy({
@@ -13,4 +12,3 @@ deploy({
   ossPath: 'your ossPath', // oss存储路径,默认是根路径,
   recursion: true, // 递归上传,默认为true,文件夹下所有文件递归上传
 })
-```
