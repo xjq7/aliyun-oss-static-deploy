@@ -1,3 +1,13 @@
+## 1. 安装
+
+```js
+yarn add aliyun-oss-static-deploy
+or
+npm install aliyun-oss-static-deploy
+```
+
+## 2. 使用
+
 ```js
 const deploy = require('aliyun-oss-static-deploy')
 
